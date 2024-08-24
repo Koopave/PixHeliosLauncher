@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "pixelandlauncher",
   "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "PixeLand Launcher",
+  "description": "The currently used launcher for the Minecraft server named Pixeland",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) and Koopave (https://github.com/koopave)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/koopave/PixHeliosLauncher Original source: https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/koopave/PixHeliosLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/koopave/PixHeliosLauncher.git"
   }
 }
