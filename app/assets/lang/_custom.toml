@@ -1,14 +1,14 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "PixeLand Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
-mediaTwitterURL = "#"
-mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/zNWUXdt"
+mediaGitHubURL = "https://play.pixeland-pvp.fr"
+mediaTwitterURL = "https://x.com/koopave"
+mediaInstagramURL = "https://instagram.com/koopave"
+mediaYouTubeURL = "https://youtube.com/@koopave"
+mediaDiscordURL = "https://discord.gg/JFeqmX8Y3J"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"

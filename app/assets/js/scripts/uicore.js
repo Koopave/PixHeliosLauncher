@@ -18,7 +18,6 @@ const loggerAutoUpdater        = LoggerUtil.getLogger('AutoUpdater')
 // Log deprecation and process warnings.
 process.traceProcessWarnings = true
 process.traceDeprecation = true
-
 // Disable eval function.
 // eslint-disable-next-line
 window.eval = global.eval = function () {
